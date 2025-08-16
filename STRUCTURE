@@ -1,0 +1,15 @@
+solstice-restaurant/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── images/
+│   ├── hero.jpg          (1920×1080 sunny terrace)
+│   ├── dish1.jpg
+│   ├── dish2.jpg
+│   ├── dish3.jpg
+│   └── wine-cheese.jpg
+├── fonts/
+│   └── (optional) CormorantGaramond & Lato woff2
+└── README.md
